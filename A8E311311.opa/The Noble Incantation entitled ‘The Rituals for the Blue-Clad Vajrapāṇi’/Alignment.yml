@@ -1,0 +1,22 @@
+segment_sources:
+  P63E4E98A:
+    type: origin_type
+    relation: translation
+    language: en
+  P617332FF:
+    type: origin_type
+    relation: translation
+    language: bo
+segment_pairs:
+  3c2729b26371478aab114b2ac82bf30e:
+    P63E4E98A: 6a4d33b8c3be4aa980b81d0720e9b0ca
+    P617332FF: a179aa9273be4826a95b58f9189bd550
+  18a303b54cd04a3a810d1cad0f1b046a:
+    P63E4E98A: 6d50fafc6b434cdab8f0f63eca4f5158
+    P617332FF: 525282e4949341d49cc3dc117158f3c6
+  3165877fb56f478c9a8ef29cd89c360c:
+    P63E4E98A: 2959a153ecea4c7ba6f24f730a2629cc
+    P617332FF: 4686d5b8129f4e8ca1500b97e2c664f4
+  2e8286541a334349bdcd5d1ffb60ba46:
+    P63E4E98A: bc1b7ec5d9c949f8811b0bf857f25a0d
+    P617332FF: b5575eb145d14526acfec2574fd092cc
